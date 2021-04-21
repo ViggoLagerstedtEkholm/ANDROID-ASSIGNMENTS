@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">5.2</string>
+    <string name="textRotation">Azimuth</string>
+    <string name="valueRotation">0.0</string>
+    <string name="textPitch">Pitch</string>
+    <string name="valuePitch">0.0</string>
+    <string name="textRoll">Roll</string>
+    <string name="valueRoll">0.0</string>
+    <string name="textMagnetometer">Magnetometer</string>
+    <string name="valueX1">0.0</string>
+    <string name="valueX2">0.0</string>
+    <string name="valueX3">0.0</string>
+    <string name="textAccelerometer">Accelerometer(m/s ^ 2)</string>
+    <string name="valueY1">0.0</string>
+    <string name="valueY2">0.0</string>
+    <string name="valueY3">0.0</string>
+    <string name="textGyroscope">Gyroscope</string>
+    <string name="valueZ1">0.0</string>
+    <string name="valueZ2">0.0</string>
+    <string name="valueZ3">0.0</string>
+    <string name="valueRotationPhoneScreen">No rotation</string>
+    <string name="compass">COMPASS</string>
+    <string name="_0">0</string>
+</resources>

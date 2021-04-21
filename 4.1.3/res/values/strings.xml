@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">413</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="send">SEND</string>
+    <string name="choose_file_to_attach">Choose file to attach</string>
+    <string name="path_unknown">PATH UNKNOWN</string>
+</resources>

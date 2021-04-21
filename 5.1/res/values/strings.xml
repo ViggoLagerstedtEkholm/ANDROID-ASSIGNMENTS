@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">5.1</string>
+    <string name="no_altitude_detected">No altitude detected.</string>
+    <string name="no_accuracy_detected">No accuracy detected.</string>
+    <string name="no_speed_detected">No speed detected.</string>
+    <string name="address_failed_to_fetch">Address failed to fetch.</string>
+    <string name="updates_off">Updates off.</string>
+    <string name="location_is_not_being_updated">Location is NOT being updated.</string>
+    <string name="location_is_being_updated">Location is being updated.</string>
+    <string name="lowest_location_accuracy">Lowest location accuracy.</string>
+    <string name="highest_location_accuracy">Highest location accuracy</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address">Address:</string>
+    <string name="high_low">High/Low Accuracy</string>
+    <string name="_0_00">0.00</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="speed">Speed:</string>
+    <string name="sensor_mode">Sensor mode:</string>
+    <string name="updates">Updates:</string>
+    <string name="lon">lon:</string>
+    <string name="location_updates" > Update location.</string>
+    <string name="lat">Lat:</string>
+    <string name="off">Off</string>
+</resources>

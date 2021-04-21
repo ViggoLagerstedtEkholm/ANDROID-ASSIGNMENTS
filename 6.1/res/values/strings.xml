@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">6.1</string>
+    <string name="call">Call</string>
+    <string name="number">Number</string>
+    <string name="_0">0</string>
+    <string name="time_and_date">Time and date</string>
+    <string name="type">Type</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+</resources>

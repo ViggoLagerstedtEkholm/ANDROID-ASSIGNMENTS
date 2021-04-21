@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/selectiorFragment">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.a310.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/barChartFragment"
+        android:name="com.example.a310.BarChartFragment"
+        android:label="fragment_bar_chart"
+        tools:layout="@layout/fragment_bar_chart" >
+        <action
+            android:id="@+id/action_barChartFragment_to_selectiorFragment3"
+            app:destination="@id/selectiorFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectiorFragment"
+        android:name="com.example.a310.SelectorFragment"
+        android:label="fragment_selectior"
+        tools:layout="@layout/fragment_selectior" >
+        <action
+            android:id="@+id/action_selectiorFragment_to_barChartFragment"
+            app:destination="@id/barChartFragment" />
+        <action
+            android:id="@+id/action_selectiorFragment_to_LineChartFragment"
+            app:destination="@id/LineChartFragment" />
+        <action
+            android:id="@+id/action_selectiorFragment_to_piechartFragment"
+            app:destination="@id/pieChartFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/LineChartFragment"
+        android:name="com.example.a310.LineChartFragment"
+        android:label="fragment_pie_chart"
+        tools:layout="@layout/fragment_line_chart" >
+        <action
+            android:id="@+id/action_pieChartFragment_to_selectiorFragment"
+            app:destination="@id/selectiorFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/pieChartFragment"
+        android:name="com.example.a310.PieChartFragment"
+        android:label="fragment_radar"
+        tools:layout="@layout/fragment_pie_chart" >
+        <action
+            android:id="@+id/action_pieChartFragment_to_selectiorFragment2"
+            app:destination="@id/selectiorFragment" />
+    </fragment>
+</navigation>
