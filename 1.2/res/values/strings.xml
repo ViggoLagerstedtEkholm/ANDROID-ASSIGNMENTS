@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1.2</string>
+    <string name="received_message">Received Message</string>
+    <string name="submit">SUBMIT</string>
+    <string name="test_text">TEST TEXT</string>
+    <string name="enter_text">Enter text</string>
+</resources>

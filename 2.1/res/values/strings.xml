@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2.1</string>
+    <string name="click_me">Click me!</string>
+    <string name="click_the_button">Click the button!</string>
+    <string name="is_prime">" %1$s Is prime"</string>
+    <string name="is_not_prime">" %1$s Is not prime"</string>
+
+</resources>

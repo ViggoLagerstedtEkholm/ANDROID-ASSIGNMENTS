@@ -1,0 +1,58 @@
+﻿I Android Studio
+1.1 Gå till Build -> Generate Signed bundle / APK
+
+
+Fönster för att signera kommer att komma upp.
+1.2 Vi väljer alternativet “APK” och trycker next.
+1.3 Om vi ej har en keystore väljer vi att trycka på Create new annars kan man gå vidare till steg 1.15
+
+
+Generera en keystore nyckel och en uppladdnings nyckel.
+
+
+Skapa en ny keystore
+1.4 Ange var på datorn vi ska placera denna nya keystore i fältet “key store path”.
+1.5 Vi väljer ett lösenord på keystore och bekräftar lösenordet.
+
+
+skapa en ny Key
+1.6 Vi anger ett alias som är namnet på nyckeln.
+1.7 Vi skriver in ett lösenord och bekräftar lösenordet.
+1.8 
+Utan att byta från standardvärdet så har vi 25 år av giltighet av denna nyckeln, vi väljer 25.
+
+
+Vi fyller i certifikatet med personlig information
+1.9 Namn och efternamn.
+1.10 Organisationens enhet.
+1.11 Organisationens namn.
+1.12 Region.
+1.13 Stad.
+1.14 Landkod.
+
+
+Ni när vi skapat en keystore och key går vidare med att skapa vår APK.
+
+
+1.15 Vi skriver in key store lösenord och key lösenordet. Vi anger även namnet på uppladdnings nyckeln och trycker next.
+
+
+1.16 Vi anger byggvarianter och vi markerar både Debug och Release.
+
+
+1.17 
+Vi kan välja (inte obligatoriskt) om vi vill lägga till Signature versions som skapar snabbare nedladdnings för APK filerna och bättre säkerhet. Vi väljer både V1 och V2. 
+
+
+1.18
+Vi kan ange var på datorn både Release och Debug mapparna ska hamna under Destination folder.
+
+
+1.18 Vi trycker finish.
+
+
+Vi har lyckats skapa en APK ifall vi får följande meddelande:
+Generate Signed APK
+APK(s) generated successfully for module '1.1.app' with 2 build variants:
+Build variant 'debug': locate or analyze the APK.
+Build variant 'release': locate or analyze the APK.

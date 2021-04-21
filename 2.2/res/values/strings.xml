@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_me">Click me!</string>
+    <string name="click_the_button">Click the button!</string>
+    <string name="history">History</string>
+    <string name="back">Back</string>
+    <string name="is_prime"> %1$s Is prime</string>
+    <string name="is_not_prime"> %1$s Is not prime</string>
+    <string name="is_prime_and_not_prime"> %1$s Is prime and not prime.</string>
+</resources>

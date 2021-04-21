@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">3.7</string>
+    <string name="choose_image_to_detect_faces_on">Choose image to detect faces on</string>
+</resources>

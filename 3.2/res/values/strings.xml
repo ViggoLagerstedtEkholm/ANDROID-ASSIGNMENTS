@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3.2</string>
+    <string name="stop_recording">STOP RECORDING</string>
+    <string name="record">RECORD</string>
+    <string name="play">PLAY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="_1_click_record_and_say_something">1. Click Record and say something!</string>
+    <string name="_2_click_stop_recording_to_stop_the_recording">2. Click Stop recording to stop the recording</string>
+    <string name="instructions">Instructions</string>
+    <string name="_3_click_play_to_play_the_recorded_audio">3. Click Play to play the recorded audio</string>
+    <string name="_4_click_cancel_to_stop_the_replay_of_the_audio">4. Click Cancel to stop the replay of the audio</string>
+</resources>
