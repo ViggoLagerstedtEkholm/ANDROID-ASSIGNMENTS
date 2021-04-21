@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">6.2_SEND</string>
+    <string name="message">Message</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="receiver_number">Receiver number</string>
+    <string name="_0">0</string>
+</resources>

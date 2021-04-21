@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">6.2_RECEIVER</string>
+    <string name="no_sms_received_yet">No SMS received yet!</string>
+</resources>

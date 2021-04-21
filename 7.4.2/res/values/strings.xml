@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">7.4.2</string>
+    <string name="ambient_temperature">Ambient temperature</string>
+    <string name="_0_0">0.0</string>
+    <string name="light">Light</string>
+    <string name="air_pressure">Air pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="device_temperature">Device temperature</string>
+</resources>

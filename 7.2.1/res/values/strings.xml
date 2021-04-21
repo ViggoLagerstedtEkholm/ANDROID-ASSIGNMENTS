@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">7.2.1</string>
+    <string name="dialog">Dialog</string>
+    <string name="toast">Toast</string>
+    <string name="send_on_channel_1">SEND ON CHANNEL 1</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="send_on_channel_2">SEND ON CHANNEL 2</string>
+    <string name="field_1">Field 1</string>
+    <string name="field_2">Field 2</string>
+</resources>
